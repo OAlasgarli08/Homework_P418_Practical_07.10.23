@@ -1,0 +1,14 @@
+C:\Users\Omara\OneDrive\Desktop\Homework_P418_Practical_07.10.23\Practical\Practical\obj\Debug\net6.0\Practical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omara\OneDrive\Desktop\Homework_P418_Practical_07.10.23\Practical\Practical\obj\Debug\net6.0\Practical.AssemblyInfoInputs.cache
+C:\Users\Omara\OneDrive\Desktop\Homework_P418_Practical_07.10.23\Practical\Practical\obj\Debug\net6.0\Practical.AssemblyInfo.cs
+C:\Users\Omara\OneDrive\Desktop\Homework_P418_Practical_07.10.23\Practical\Practical\obj\Debug\net6.0\Practical.csproj.CoreCompileInputs.cache
+C:\Users\Omara\OneDrive\Desktop\Homework_P418_Practical_07.10.23\Practical\Practical\bin\Debug\net6.0\Practical.exe
+C:\Users\Omara\OneDrive\Desktop\Homework_P418_Practical_07.10.23\Practical\Practical\bin\Debug\net6.0\Practical.deps.json
+C:\Users\Omara\OneDrive\Desktop\Homework_P418_Practical_07.10.23\Practical\Practical\bin\Debug\net6.0\Practical.runtimeconfig.json
+C:\Users\Omara\OneDrive\Desktop\Homework_P418_Practical_07.10.23\Practical\Practical\bin\Debug\net6.0\Practical.dll
+C:\Users\Omara\OneDrive\Desktop\Homework_P418_Practical_07.10.23\Practical\Practical\bin\Debug\net6.0\Practical.pdb
+C:\Users\Omara\OneDrive\Desktop\Homework_P418_Practical_07.10.23\Practical\Practical\obj\Debug\net6.0\Practical.dll
+C:\Users\Omara\OneDrive\Desktop\Homework_P418_Practical_07.10.23\Practical\Practical\obj\Debug\net6.0\refint\Practical.dll
+C:\Users\Omara\OneDrive\Desktop\Homework_P418_Practical_07.10.23\Practical\Practical\obj\Debug\net6.0\Practical.pdb
+C:\Users\Omara\OneDrive\Desktop\Homework_P418_Practical_07.10.23\Practical\Practical\obj\Debug\net6.0\Practical.genruntimeconfig.cache
+C:\Users\Omara\OneDrive\Desktop\Homework_P418_Practical_07.10.23\Practical\Practical\obj\Debug\net6.0\ref\Practical.dll
